@@ -1,2 +1,2 @@
 #!/bin/bash
-conky
+conky -c ~/.config/conky/.conkyrc
